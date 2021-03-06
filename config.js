@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'jo',
+    name: 'tt',
     photo: '/human.jpg',
     bio: 'webアプリケーションエンジニア（php, java, python）',
     contacts: {
